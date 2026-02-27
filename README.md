@@ -9,6 +9,10 @@ This folder contains the complete GitHub-ready package for my **prize-winning so
 - **Best submission file:** `submission_v7_t1.8.csv`
 - **Reproducible notebook:** `submission_v7_t1.8.ipynb`
 
+## Video Review
+
+- https://www.youtube.com/watch?v=d2vLSK6IX9M
+
 ## Included Files
 
 - `submission_v7_t1.8.ipynb` — final notebook with full pipeline
