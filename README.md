@@ -2,6 +2,11 @@
 
 This folder contains the complete GitHub-ready package for my **prize-winning solution** to the **All Cups "Sales Rhythms"** forecasting challenge.
 
+## Quick Links
+
+- Video review: https://www.youtube.com/watch?v=d2vLSK6IX9M
+- Presentation: [Sales Rhythms Presentation (EN)](./Sales_Rhythms_EN.pdf)
+
 ## Best Public Result
 
 - **Public wMAE:** 1.787
